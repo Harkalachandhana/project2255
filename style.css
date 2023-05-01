@@ -1,0 +1,11 @@
+
+body{background-color: silver; 
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/438/343/679/headphones-minimalism-pink-pastel-wallpaper-preview.jpg');
+    background-repeat: no repeat;
+    background-position: center;
+    background-size:100%;
+}
+h1{color:black;text-align:center;}
+p{color:rgb(108,70,70);text-align:justify;}
+h2{color:teal;text-align:left;}
+h3{color:#cf6679;text-align:left;}
